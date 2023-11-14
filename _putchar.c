@@ -1,7 +1,7 @@
 #include "main.h"
 #include <unistd.h>
 /**
- * _putchar - is function to print i char per time
+ * _putchar - is function to print a char per time
  * @c: is the charecter to be printed
  * Return: Printed Charecter
  */

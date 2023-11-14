@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * printf_dec - is a function that prints an decimal number
- * @mylist: is a list of a stored arguments
- * Return: Counter Of Counted Charecters
+ * printf_dec - is a function that prints an decimal numbers
+ * @mylist: is a list of a stored arguments.
+ * Return: Counter Of Counted Charecters Number.
  */
 
 int printf_dec(va_list mylist)
